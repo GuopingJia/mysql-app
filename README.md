@@ -5,7 +5,7 @@
 The MySQL application can be deployed using the following command to the K8s cluster:
 
 ```markdown
-$ k apply -k base
+$ kubectl apply -k base
 namespace/mysql created
 secret/mysql-pass-m62cbhd9kf created
 service/mysql created
