@@ -15,7 +15,7 @@ deployment.apps/mysql created
 
 ## Test MySQL database
 
-Under the folder *test*, there are a liss of scripts to populate some sample employees data records to the deployed MySQL database. There are other scripts to test the populated data. 
+Under the folder *test*, there are a list of scripts to populate sample employees data records to the deployed MySQL database. There are also other scripts to test the populated data. Those scripts are grabbed from the GitHub repo *'test_db'* at https://github.com/datacharmer/test_db.git. 
 
-Refer to the GitHub repo at https://github.com/datacharmer/test_db.git for the full scripts.
+Refer to this GitHub repo for the full scripts.
 
